@@ -6,7 +6,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Integrations
+### Chapter 2
 
 # Integrate Cronfig to your app
 
