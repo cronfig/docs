@@ -26,4 +26,11 @@ There was and still is the single pain point for Mautic users and that was setti
 - Some web hostings let their users to run jobs only once per hour, which isn't frequent enough.
 - Each server can have the web root folder in a different location
 
-The points above shows why it's not possible to write documentation for every single server or service where you can install Mautic. The Cronfig author was feeling the pain while helping Mautic community in the forums and decided to build a simple service which would work for all environments. The service which is simple to install into Mautic, simple to register and log into. The service which will gives you visibility into when and what jobs gets triggered, how long the execution takes and what is the result. The service which will let you know if there is something wrong with your Mautic or your server.
+The points above shows why it's not possible to write documentation for every single server or service where you can install Mautic. The Cronfig author was feeling the pain while helping Mautic community in the forums and decided to build a simple service which 
+
+- would work for **all environments**,
+- is **simple to install** into Mautic and similar apps,
+- **simple to register** and log into,
+- gives you visibility into when and what jobs gets triggered, how long the execution takes and **what is the result**,
+- will let you know if there is something wrong with your Mautic or your server - **simple realtime monitoring** of your app,
+- is built **inside the administration** of the app you are triggering. No need to go elsewhere to monitor or configure it.
