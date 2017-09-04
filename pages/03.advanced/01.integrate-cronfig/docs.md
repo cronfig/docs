@@ -9,7 +9,7 @@ Cronfig was built to be simple. You probably know that by now. But it is also ve
 
 <script src="https://gist.github.com/escopecz/f398baa387173147aefc1a3cf82fa084.js"></script>
 
-### What's happening on the interesting lines
+### What's happening on the important lines
 
 #### Line 4,5,6
 
