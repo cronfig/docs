@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 Cronfig was built to be simple. You probably know that by now. But it is also very simple to integrate anywhere. All you need is some HTML page you can paste some Javascript and configure it for your app with a JSON object. No server-side magic needed.
-
+<script src="https://gist.github.com/escopecz/f398baa387173147aefc1a3cf82fa084.js"></script>
 ```html
 <div id="cronfig-wrapper">
     Loading...
