@@ -18,3 +18,13 @@ A `div` with `id="cronfig-wrapper"` is where the Cronfig JS will render its cont
 #### Line 8
 
 Add the `cronfigConfig` object to `document` to integrate Cronfig with needs of your app.
+
+#### Line 9
+
+Specify `platform` name. For example type in _Mautic_ if you write another plugin for Mautic or _Wordpress_ if you integrate Cronfig with Wordpress.
+
+#### Line 10 - 16
+
+Specify what tasks can users start within Cronfig. This is key concept of Cronfig. You, as a developer, will configure the tasks for the app you are integrating with. You specify `url`, `title` and `description` for each task. Add multiple tasks if you need them. Users will simply enable those they want with one click. Simple.
+
+
