@@ -10,3 +10,5 @@ Mautic needs to be poked periodically so it could perform background tasks which
 4. If there is some, it will create a HTTP call to the Cronfig plugin installed in your Mautic.
 5. Cronfig plugin will trigger the task similarily like you would do executing the command via CLI.
 6. Cronfig worker waits for certain time for a response of the command. If there is, it will store it to Cronfig database server so you could view it in the Cronfig plugin user interface or get notified if it fails for several times in the row.
+
+![](cronfig-schema.png)
