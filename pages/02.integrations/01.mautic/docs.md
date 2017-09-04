@@ -33,3 +33,4 @@ There are 2 ways to get the Mautic-Cronfig plugin to your Mautic. If you have SS
 8. Go to the right hand side Mautic menu again. A new menu item called Cronfig should be there. Hit it. A register/login screen should appear.
 9. Your email should be prefilled. Click on the Register button and check your email inbox. Your API key should appear in your inbox any second.
 10. If you received the Cronfig registration email, copy the API key from it, insert it to the Log in input and log in.
+![](cronfig-register-login.png)
