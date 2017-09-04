@@ -40,3 +40,7 @@ If you know the API key of the users, fill it in here so it's pre-filled for the
 #### Line 19
 
 This function will run when user filles in the API key. So you can easily catch it and store it to pre-fill it next time (line 18). Make lives of your users a bit easier.
+
+### Inspiration
+
+Feel free to inspire with the [Mautic - Cronfig](https://github.com/cronfig/mautic-cronfig) plugin.
