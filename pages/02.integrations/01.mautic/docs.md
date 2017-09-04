@@ -3,7 +3,9 @@ title: Mautic
 published: true
 ---
 
-### Installation
+## Installation
+
+### Place the files of the plugin into your Mautic
 
 There are 2 ways to get the Mautic-Cronfig plugin to your Mautic. If you have SSH access to your server or if you have only SFTP access. Follow the steps based on what you have.
 
@@ -23,7 +25,7 @@ There are 2 ways to get the Mautic-Cronfig plugin to your Mautic. If you have SS
 4. Rename it to CronfigBundle the way so you could locate CronfigBundle.php file on this path: `plugins/CronfigBundle/CronfigBundle.php`.
 5. Clear Mautic's cache. Simply delete the content of `app/cache/prod` folder.
 
-#### Enable Cronfig Plugin in Mautic
+### Enable Cronfig Plugin in Mautic
 
 5. Go to the right hand side Mautic menu (click the cog icon in the top right corner to slide the menu out) and go to Plugins.
 6. Click the Install/Upgrade Plugins button. The Cronfig icon should appear in the list of plugins.
