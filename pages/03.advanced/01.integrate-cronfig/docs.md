@@ -5,28 +5,16 @@ taxonomy:
         - docs
 ---
 
-Cronfig was built to be simple. You probably know that by now. But it is also very simple to integrate anywhere. All you need is some HTML page you can paste some Javascript and configure it for your app with a JSON object. No server-side magic needed.
+Cronfig was built to be simple. You probably know that by now. But it is also very simple to integrate anywhere. All you need is some HTML page you can paste some Javascript and configure it for your app with a Javascript object. No server-side magic needed.
+
 <script src="https://gist.github.com/escopecz/f398baa387173147aefc1a3cf82fa084.js"></script>
-```html
-<div id="cronfig-wrapper">
-    Loading...
-</div>
-<script type="text/javascript">
-    document.cronfigConfig = {
-        platform: 'app_name',
-        tasks: {
-        	{
-        		url: 'https://yourapp/trigger/action?secret=slkj23ori2kln',
-                title: 'Trigger the action'
-                description: 'Makes your app to do this and that',
-        },
-        email: 'known@user.email',
-        apiKey: 'known_api_key_here',
-        rememberApiKey: function(apiKey) {
-            // AJAX call to save/remember filled in API key 
-            // so user does not have to enter it every time
-        }
-    }
-</script>
-<script type="text/javascript" src="https://cdn.cronfig.io/cronfig.js"></script>
-```
+
+### What's happening on the interesting lines
+
+#### Line 4,5,6
+
+A `div` with `id="cronfig-wrapper"` is where the Cronfig JS will render its content. You can type in `loading...` or paste in a spinner to tell the user the content is coming soon.
+
+#### Line 8
+
+Add the `cronfigConfig` object to `document` to integrate Cronfig with needs of your app.
