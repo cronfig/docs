@@ -1,5 +1,5 @@
 ---
-title: 'Integrate Cronfig administration into any app'
+title: 'Integrate Cronfig'
 taxonomy:
     category:
         - docs
