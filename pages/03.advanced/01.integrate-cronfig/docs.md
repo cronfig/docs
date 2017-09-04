@@ -27,4 +27,4 @@ Specify `platform` name. For example type in _Mautic_ if you write another plugi
 
 Specify what tasks can users start within Cronfig. This is key concept of Cronfig. You, as a developer, will configure the tasks for the app you are integrating with. You specify `url`, `title` and `description` for each task. Add multiple tasks if you need them. Users will simply enable those they want with one click. Simple.
 
-
+>>>> Notice the example task URL. It has a secret hash. Use similar technique to secure potentially expensive trigger URLs.
