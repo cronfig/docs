@@ -5,7 +5,7 @@ published: true
 
 ### Installation
 
-1. [Download](https://cronfig.mautic.net/asset/1:mautic-cronfig-plugin) the plugin
+1. [Download](https://cronfig.mautic.net/asset/1:mautic-cronfig-plugin) the plugin to your computer.
 2. Unzip the downloaded package.
 3. Upload the unzipped folder to the plugins folder and rename it to CronfigBundle the way you could locate CronfigBundle.php file on this path: plugins/CronfigBundle/CronfigBundle.php.
 4. Clear Mautic's cache. Either run app/console cache:clear command in the Mautic's root dir or simply delete the content of app/cache dir.
