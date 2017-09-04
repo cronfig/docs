@@ -31,7 +31,12 @@ Specify what tasks can users start within Cronfig. This is key concept of Cronfi
 
 #### Line 17
 
-Cronfig is meant to use inside an app configuration. So your user should be logged in and you should know his/hers **email address**. Fill it in so he/she doesn't have to type it in.
+Cronfig is meant to use inside an app configuration. So your users should be logged in and you should know their **email address**. Fill it in so they doesn't have to type it in.
 
 #### Line 18
 
+If you know the API key of the users, fill it in here so it's pre-filled for them and they doesn't have to search for it in their inbox. How could you know that? Glad you asked! See line 19.
+
+#### Line 19
+
+This function will run when user filles in the API key. So you can easily catch it and store it to pre-fill it next time (line 18). Make lives of your users a bit easier.
