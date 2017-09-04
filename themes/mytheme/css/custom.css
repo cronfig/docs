@@ -18,3 +18,12 @@ Put your custom CSS in this file.
     display:none;
 }
 */
+
+.tntsearch-dropdown~.tntsearch-results .row {
+width: 268px !important;
+}
+
+#header input, #header .tntsearch-results {
+ color: #000;
+}
+
