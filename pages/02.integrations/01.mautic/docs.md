@@ -9,7 +9,7 @@ There are 2 ways to get the Mautic-Cronfig plugin to your Mautic. If you have SS
 
 #### I have SSH access
 
-1. Log in with `ssh user@host`.
+1. Log in with `ssh user@host`
 2. Go to your Mautic root folder and then to the plugins folder. `cd /path_to_mautic/plugins`
 3. Download the zip package of the plugin and name it cronfig.zip. `curl https://github.com/cronfig/mautic-cronfig/archive/master.zip -o cronfig.zip -L` (`wget` can be used instead of `curl`)
 4. Unzip the content of the zip file to the _CronfigBundle_ folder. `unzip -j cronfig.zip -d CronfigBundle`
