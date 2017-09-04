@@ -1,12 +1,13 @@
 ---
-title: Intermediate
+title: Integrations
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
-### Chapter 2
+### Integrations
 
-# Intermediate
+# Integrate Cronfig to your app
 
-Delve deeper into more **complex** topics
+Cronfig can work with any app or script accessible via HTTP.
