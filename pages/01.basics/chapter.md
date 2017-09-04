@@ -10,4 +10,4 @@ child_type: docs
 
 # Basics
 
-Discover the **basic Cronfig** principles
+Discover the **basic [Cronfig](https://cronfig.io)** principles
