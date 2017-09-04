@@ -1,57 +1,32 @@
 ---
-title: Advanced Topic 1
+title: 'Integrate Cronfig administration into any app'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
-Lorem markdownum voces. Adire nant ingreditur quam evadere dixit caelestum
-meliora. Induitur videndi Timoli videres et *quae*, niteant.
+Cronfig was built to be simple. You probably know that by now. But it is also very simple to integrate anywhere. All you need is some HTML page you can paste some Javascript and configure it for your app with a JSON object. No server-side magic needed.
 
-    if (cyberspace + superscalarBacklink) {
-        language_raw *= 78;
-        caps -= dot_vga;
-    } else {
-        nntpPingPoint(chip(ip_fsb, boxRepeater, art));
-        manetRgbHeader /= backside;
+```html
+<div id="cronfig-wrapper">
+    Loading...
+</div>
+<script type="text/javascript">
+    document.cronfigConfig = {
+        platform: 'app_name',
+        tasks: {
+        	{
+        		url: 'https://yourapp/trigger/action?secret=slkj23ori2kln',
+                title: 'Trigger the action'
+                description: 'Makes your app to do this and that',
+        },
+        email: 'known@user.email',
+        apiKey: 'known_api_key_here',
+        rememberApiKey: function(apiKey) {
+            // AJAX call to save/remember filled in API key 
+            // so user does not have to enter it every time
+        }
     }
-    if (dvd(16, ide_blacklist)) {
-        nodeTftpPpga = -5;
-        mips.aiffTCodec *= compiler_target_bus;
-    }
-    var eup = native_page_utility;
-    if (software) {
-        progressive *= superscalar_bot_script;
-        regularScroll = internetRayBlu;
-    }
-    progressive_compression_ipv = freewarePrebindingRoom(newsgroup);
-
-In *nubes pallor potuit* non, parenti auctorem urbis. Viderat at quicquam
-piscator nunc prosunt ponit.
-
-## Fecere conplexa et utque et habetur iacentia
-
-Haud rotarum, et hospes et est, remittit tecta. Defecerat mille, perit *tale
-Laomedonque* austri, scissaque incumbens prisci ferunt [ibi cumque
-horror](http://example.com/) gravis.
-
-1. Accipit fraterno quantum dicit
-2. Sparsit et tanget in coniunx putares oravit
-3. Fuit et flumina
-4. Inprudens coloque
-
-## Sentiet etiam
-
-In carmen, et quod, satiata, corpore semper mando; murum este *memores*. Si
-felicia paratu voluit, nova illa tamen hanc et pressa caeli Hippolytus tinxit,
-cunctis.
-
-Nitido arcisque nisi dedisse? Est atque ferasque Aeneas! Auro acui laedere, sed
-vertit quoque, adde nec!
-
-Et qua quem, **verba** citus ero favorem, spectare tam, aureae Echionio facti
-virginis nullo. Auras cura tantum, una ibat tecta, mihi erit.
-
-Igitur increpat ululavit capulo: inmenso [moriturae](http://seenly.com/)
-artifices Sidonis loricamque regebat iustius: repetam more labores datae!
-Praeterque truncus face: parte et vestram Aethiopum signum Pelasgi figurae
-nostroque.
+</script>
+<script type="text/javascript" src="https://cdn.cronfig.io/cronfig.js"></script>
+```
