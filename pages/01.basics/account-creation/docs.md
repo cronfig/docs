@@ -1,5 +1,6 @@
 ---
 title: 'Account creation'
+published: true
 ---
 
 Cronfig is a micro service living in other server than yours. You have to create an account in the service so the service knows it's you who is viewing/creaing/modifying your tasks. The account is as minimal as it can be. All you need is an email address. That's it. Here is how the workflow of creating a new account looks like:
