@@ -26,12 +26,13 @@ If you need Cronfig to work harder for you, please take a look at the [paid plan
 
 The proces is little bit cumbersome thanks to EU laws. Here is how it currently looks like:
 
-1. Submit the order form.
+1. Submit the [order form](https://cronfig.io/order.html).
 2. I'll manually craft a pro forma invoice for you and add the VAT based on your country and TAX ID (if any) and send it to your email.
 3. You'll be able to pay with a PayPal button directly on the invoice or via bank transfer.
 4. After you pay, I'll manually upgrade your account.
 
 You probably noticed that there is some manual work involved. I'm processing the orders ASAP, but it may happend that I'm out of keyboard. I plan to automate the process but it's at the bottom of Cronfig's road map. I have cooler things to implement for this service.
+
 ## Delete your account
 
 The Cronfig service intention is NOT to get your personal information. As you could notice, all it needs is your email address so it can contact you when your system is having troubles processing the jobs. But if you are not interested in using Cronfig anymore, there is a link in your **registration email** which will delete your account, your jobs, your logs from Cronfig.
