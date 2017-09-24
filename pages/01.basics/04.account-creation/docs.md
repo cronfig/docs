@@ -18,7 +18,13 @@ The system you've installed Cronfig plugin into will remember the API key for yo
 
 ## Account limits
 
-After you log in you may notice the information about all the limits your account have. The purpose of the limits is that one account won't take all server resources for itself at the expense of other accounts. If you need Cronfig to work harder for you, please take a look at the [paid plans](https://cronfig.io) and consider if you could chip in on the project maintanance.
+After you log in you may notice the information about all the limits your account have. The purpose of the limits is that one account won't take all server resources for itself at the expense of other accounts. 
+
+## Upgrade your account
+
+If you need Cronfig to work harder for you, please take a look at the [paid plans](https://cronfig.io) and consider if you could chip in on the project maintanance.
+
+The proces is little bit cumbersome thanks to EU laws. Here is how it currently looks like:
 
 ## Delete your account
 
