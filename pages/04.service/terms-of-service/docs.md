@@ -32,7 +32,7 @@ SECTION 2 - GENERAL CONDITIONS
 
 We reserve the right to refuse service to anyone for any reason at any time.
 
-You understand that your content (not including credit card information), may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Credit card information is always encrypted during transfer over networks.
+You understand that your content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Credit card information is always encrypted during transfer over networks.
 
 You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the service is provided, without express written permission by us.
 
@@ -48,32 +48,25 @@ This site may contain certain historical information. Historical information, ne
 
 SECTION 4 - MODIFICATIONS TO THE SERVICE AND PRICES
 
-Prices for our products are subject to change without notice.
+Prices for our service are subject to change without notice.
 
 We reserve the right at any time to modify or discontinue the Service (or any part or content thereof) without notice at any time.
 
 We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
 
 
-SECTION 5 - PRODUCTS OR SERVICES (if applicable)
+SECTION 5 - SERVICES
 
-Certain products or services may be available exclusively online through the website. These products or services may have limited quantities and are subject to return or exchange only according to our Return Policy.
+We reserve the right, but are not obligated, to limit the sales of our Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any services that we offer. All descriptions of services or pricing are subject to change at anytime without notice, at the sole discretion of us. We reserve the right to discontinue any service at any time. Any offer for any service made on this site is void where prohibited.
 
-We have made every effort to display as accurately as possible the colors and images of our products that appear at the store. We cannot guarantee that your computer monitor's display of any color will be accurate.
-
-We reserve the right, but are not obligated, to limit the sales of our products or Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. All descriptions of products or product pricing are subject to change at anytime without notice, at the sole discretion of us. We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.
-
-We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
+We do not warrant that the quality of any services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
 
 
 SECTION 6 - ACCURACY OF BILLING AND ACCOUNT INFORMATION
 
-We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.
+We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing address. In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e-mail provided at the time the order was made. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.
 
-You agree to provide current, complete and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email address and credit card numbers and expiration dates, so that we can complete your transactions and contact you as needed.
-
-For more detail, please review our Returns Policy.
-
+You agree to provide current, complete and accurate purchase and account information for all purchases made at our store. You agree to promptly update your account and other information, including your email, so that we can complete your transactions and contact you as needed.
 
 SECTION 7 - OPTIONAL TOOLS
 
@@ -88,7 +81,7 @@ We may also, in the future, offer new services and/or features through the websi
 
 SECTION 8 - THIRD-PARTY LINKS
 
-Certain content, products and services available via our Service may include materials from third-parties.
+Certain content and services available via our Service may include materials from third-parties.
 
 Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.
 
